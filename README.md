@@ -5,7 +5,7 @@
 <li>Used the Deep learning model Convolutional Neural Network with some optimization methods.</li>
 </ul>
 
-https://github.com/ThisIsMrIsmail/Lung-Cancer-Detection/assets/96701820/74ff4d15-8c15-4275-ac6e-65d1654f9f62
+https://drive.google.com/file/d/1n4GBdzt2mqkPN0fgSIdDRioAD9Gg3hME/view?usp=sharing
 
 ## Getting the Dataset
 
