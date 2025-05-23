@@ -1,0 +1,17 @@
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+.pytest_cache/
+.pyre/
+.pytype/
+*.sql
+*.sqlite3-journal
+*.sqlite-journal
+*.rdb
+
+# Project
+cancerdataset/
+cancer_dataset/
