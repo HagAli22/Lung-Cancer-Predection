@@ -5,7 +5,8 @@
 <li>Used the Deep learning model Convolutional Neural Network with some optimization methods.</li>
 </ul>
 
-https://drive.google.com/file/d/1n4GBdzt2mqkPN0fgSIdDRioAD9Gg3hME/view?usp=sharing
+## Go To This Link To Watch My Run
+  https://drive.google.com/file/d/1n4GBdzt2mqkPN0fgSIdDRioAD9Gg3hME/view?usp=sharing
 
 ## Getting the Dataset
 
@@ -43,7 +44,7 @@ Make sure you have the necessary permissions to download and use the dataset.
     ```
 2. **Navigate to the project directory:**
     ```bash
-    cd Lung-Cancer-Detection
+    cd Lung-Cancer-Predection
     ```
 3. **Install the required dependencies:**
     ```bash
@@ -51,11 +52,8 @@ Make sure you have the necessary permissions to download and use the dataset.
     ```
 4. **Run the backend server:**
     ```bash
-    python api/app.py
+    streamlit run app.py
     ```
-5. **Open the web app url on browser, and start testing:**
-    ```bash
-    http://127.0.0.1:5000
-    ```
+## Now will run
 
 Make sure you have Python and pip installed on your system.
